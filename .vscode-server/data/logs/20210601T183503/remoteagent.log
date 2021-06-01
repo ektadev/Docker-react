@@ -1,0 +1,26 @@
+[2021-06-01 18:35:03.960] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-01 18:35:03.960] [remoteagent] [info] Extension host agent started.
+[2021-06-01 18:35:04.146] [remoteagent] [info] [::ffff:172.17.221.241][9e1d4867][ManagementConnection] New connection established.
+[2021-06-01 18:35:04.149] [remoteagent] [info] [::ffff:172.17.221.241][36bd79cd][ExtensionHostConnection] New connection established.
+[2021-06-01 18:35:05.419] [remoteagent] [info] [::ffff:172.17.221.241][36bd79cd][ExtensionHostConnection] <3178> Launched Extension Host Process.
+[2021-06-01 18:35:36.668] [remoteagent] [info] [::ffff:172.17.221.241][9d10e59a][ManagementConnection] New connection established.
+[2021-06-01 18:35:36.684] [remoteagent] [info] [::ffff:172.17.221.241][09849006][ExtensionHostConnection] New connection established.
+[2021-06-01 18:35:36.687] [remoteagent] [info] [::ffff:172.17.221.241][09849006][ExtensionHostConnection] <3253> Launched Extension Host Process.
+[2021-06-01 18:35:40.514] [remoteagent] [info] [::ffff:172.17.221.241][9e1d4867][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-06-01 18:35:41.528] [remoteagent] [info] [::ffff:172.17.221.241][36bd79cd][ExtensionHostConnection] <3178> Extension Host Process exited with code: 0, signal: null.
+[2021-06-01 19:10:23.585] [remoteagent] [info] [::ffff:172.17.221.241][9d10e59a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-06-01 19:25:23.504] [remoteagent] [info] [::ffff:172.17.221.241][9d10e59a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-06-01 19:25:23.504] [remoteagent] [info] [::ffff:172.17.221.241][09849006][ExtensionHostConnection] The client has reconnected.
+[2021-06-01 19:25:28.445] [remoteagent] [info] [::ffff:172.17.221.241][9d10e59a][ManagementConnection] The client has reconnected.
+[2021-06-01 19:38:39.641] [remoteagent] [info] [::ffff:172.17.221.241][1c0c1047][ManagementConnection] New connection established.
+[2021-06-01 19:38:39.691] [remoteagent] [info] [::ffff:172.17.221.241][30d4b56c][ExtensionHostConnection] New connection established.
+[2021-06-01 19:38:39.698] [remoteagent] [info] [::ffff:172.17.221.241][30d4b56c][ExtensionHostConnection] <10305> Launched Extension Host Process.

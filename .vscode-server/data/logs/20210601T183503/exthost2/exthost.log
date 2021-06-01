@@ -1,0 +1,23 @@
+[2021-06-01 18:35:37.571] [exthost] [info] extension host started
+[2021-06-01 18:35:37.641] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onLanguage:dockercompose"}
+[2021-06-01 18:35:37.641] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/extensions/ms-azuretools.vscode-docker-1.13.0/main
+[2021-06-01 18:35:37.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-01 18:35:37.906] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/debug-auto-launch/dist/extension
+[2021-06-01 18:35:37.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-01 18:35:37.909] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/git/dist/main
+[2021-06-01 18:35:37.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-06-01 18:35:37.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/npm/dist/npmMain
+[2021-06-01 18:35:38.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-01 18:35:38.123] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/github/dist/extension.js
+[2021-06-01 18:35:38.275] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-01 18:35:38.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-01 18:35:38.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-01 18:35:38.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-01 18:35:38.485] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-01 18:35:38.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-01 18:35:38.487] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-01 18:35:38.487] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-01 18:35:38.488] [exthost] [info] eager extensions activated
+[2021-06-01 18:35:47.228] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-06-01 18:35:54.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-06-01 18:35:54.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ektadev/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/typescript-language-features/dist/extension
