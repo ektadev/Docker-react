@@ -1,0 +1,26 @@
+[2021-06-09 11:39:55.846] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-06-09 11:39:55.846] [remoteagent] [info] Extension host agent started.
+[2021-06-09 11:39:56.005] [remoteagent] [info] [::ffff:192.168.154.129][abf6b209][ManagementConnection] New connection established.
+[2021-06-09 11:39:56.010] [remoteagent] [info] [::ffff:192.168.154.129][35bd9eaa][ExtensionHostConnection] New connection established.
+[2021-06-09 11:39:57.598] [remoteagent] [info] [::ffff:192.168.154.129][35bd9eaa][ExtensionHostConnection] <6163> Launched Extension Host Process.
+[2021-06-09 11:50:10.362] [remoteagent] [info] Installing extension: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-06-09 11:50:12.993] [remoteagent] [info] Downloaded extension: ms-kubernetes-tools.vscode-kubernetes-tools /home/ektadev/.vscode-server/data/CachedExtensionVSIXs/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.3
+[2021-06-09 11:50:13.154] [remoteagent] [info] Extracted extension to /home/ektadev/.vscode-server/extensions/.543b9aed-4908-4b72-be87-3b75224180a2: ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-06-09 11:50:13.161] [remoteagent] [info] Renamed to /home/ektadev/.vscode-server/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.3
+[2021-06-09 11:50:13.162] [remoteagent] [info] Installation completed. ms-kubernetes-tools.vscode-kubernetes-tools
+[2021-06-09 11:50:13.560] [remoteagent] [info] Installing extension: redhat.vscode-yaml
+[2021-06-09 11:50:24.577] [remoteagent] [info] Downloaded extension: redhat.vscode-yaml /home/ektadev/.vscode-server/data/CachedExtensionVSIXs/redhat.vscode-yaml-0.19.2
+[2021-06-09 11:50:25.913] [remoteagent] [info] Extracted extension to /home/ektadev/.vscode-server/extensions/.cce917c4-e3a1-45bc-b2e2-ad6d0dde8de0: redhat.vscode-yaml
+[2021-06-09 11:50:25.922] [remoteagent] [info] Renamed to /home/ektadev/.vscode-server/extensions/redhat.vscode-yaml-0.19.2
+[2021-06-09 11:50:25.924] [remoteagent] [info] Installation completed. redhat.vscode-yaml
+[2021-06-09 11:50:25.927] [remoteagent] [info] Extensions installed successfully: redhat.vscode-yaml
+[2021-06-09 11:50:25.929] [remoteagent] [info] Extensions installed successfully: ms-kubernetes-tools.vscode-kubernetes-tools

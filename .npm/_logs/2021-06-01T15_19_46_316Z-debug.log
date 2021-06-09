@@ -1,0 +1,47 @@
+0 verbose cli [
+0 verbose cli   '/home/ektadev/.nvm/versions/node/v16.2.0/bin/node',
+0 verbose cli   '/home/ektadev/.nvm/versions/node/v16.2.0/lib/node_modules/npm/bin/npm-cli.js',
+0 verbose cli   'exec',
+0 verbose cli   '--',
+0 verbose cli   'create-react-app',
+0 verbose cli   'hello-world'
+0 verbose cli ]
+1 info using npm@7.13.0
+2 info using node@v16.2.0
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/home/ektadev/.nvm/versions/node/v16.2.0/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 1ms
+10 timing config:load:file:/home/ektadev/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/home/ektadev/.nvm/versions/node/v16.2.0/etc/npmrc Completed in 1ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:credentials Completed in 0ms
+16 timing config:load:setEnvs Completed in 1ms
+17 timing config:load Completed in 5ms
+18 timing npm:load:configload Completed in 5ms
+19 timing npm:load:setTitle Completed in 0ms
+20 timing npm:load:setupLog Completed in 1ms
+21 timing npm:load:cleanupLog Completed in 1ms
+22 timing npm:load:configScope Completed in 0ms
+23 timing npm:load:projectScope Completed in 0ms
+24 timing npm:load Completed in 8ms
+25 timing config:load:flatten Completed in 1ms
+26 http fetch GET 200 https://registry.npmjs.org/create-react-app 286ms
+27 timing arborist:ctor Completed in 0ms
+28 timing arborist:ctor Completed in 0ms
+29 timing command:exec Completed in 4967ms
+30 verbose stack Error: canceled
+30 verbose stack     at exec (/home/ektadev/.nvm/versions/node/v16.2.0/lib/node_modules/npm/node_modules/libnpmexec/lib/index.js:169:19)
+30 verbose stack     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+31 verbose cwd /home/ektadev
+32 verbose Linux 5.4.72-microsoft-standard-WSL2
+33 verbose argv "/home/ektadev/.nvm/versions/node/v16.2.0/bin/node" "/home/ektadev/.nvm/versions/node/v16.2.0/lib/node_modules/npm/bin/npm-cli.js" "exec" "--" "create-react-app" "hello-world"
+34 verbose node v16.2.0
+35 verbose npm  v7.13.0
+36 error canceled
+37 verbose exit 1
