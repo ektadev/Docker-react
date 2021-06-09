@@ -6,4 +6,21 @@ before install:
   - docker build -t ektadev/docker-react -f Dockerfile.dev .
 
  script:
-  - docker run -e CI=true ektadev/docker-react npm run test 
+  - docker run -e CI=true ektadev/docker-react npm run test
+
+deploy:
+  provider: elasticbeanstalk
+  region: "ap-southeast-1"
+  app: "docker"
+  env: "Docker-env"
+  bucket_name: "elasticbeanstalk-ap-southeast-1-992148308537"
+  bucket_path: "docker"
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key:
+    secure: "$AWS_SECRET_KEY"
+  
+  ## http://docker-env.eba-w6ahhyji.ap-southeast-1.elasticbeanstalk.com/ ##
+  ## Amazon S3 is a zipped single file which is a hard drive running on AWS ##
+  ## any time we pull our code from github to master thatw will be the time to deploy ##
